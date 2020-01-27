@@ -4,4 +4,4 @@ Some text
 
 Some more text
 
-int x = 5;
+int x = 70;
